@@ -1,7 +1,7 @@
 # ¡Hola!
 **Former Public School Teacher Rediscovering the World**
-I am currently in my second session of the ASU GIT program and am loving every second of this new growth. 🌱
-I am having a blast exploring and considering all of the GIT focuses , but I'm really digging this coding world. 🤖🤖🤖
+
+<p>I am currently in my second session of the ASU GIT program and am loving every second of this new growth. 🌱 I am having a blast exploring and considering all of the GIT focuses , but I'm really digging this coding world. 🤖🤖🤖</p>
 
 📫 How to reach me: lniverso@asu.edu
 
