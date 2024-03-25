@@ -1,5 +1,6 @@
 # Ciao!
 **Former Public School Teacher Rediscovering the World**
+🌱 I’m currently in my second session of the ASU GIT program and am loving every second of new growth. I thought I wanted to focus on Print and Publishing, but I'd digging this coding world. U+1F916
 <!--
 **lniverso/lniverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
