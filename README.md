@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Ciao!
+**Former Public School Teacher Rediscovering the World**
 <!--
 **lniverso/lniverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
