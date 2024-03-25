@@ -1,11 +1,16 @@
 # ¡Hola!
 **Former Public School Teacher Rediscovering the World**
 
-<p>I am currently in my second session of the ASU GIT program and am loving every second of this new growth. 🌱 I am having a blast exploring and considering all of the GIT focuses , but I'm really digging this coding world. 🤖🤖🤖</p>
+<p>I am currently in my second session of the ASU GIT program and am loving every second of this new growth. 🌱 </p> 
+<p>I am having a blast exploring and considering all of the GIT focuses , but I'm really digging this coding world. 🤖🤖🤖</p>
+
+![alt text](200w.gif)
 
 📫 How to reach me: lniverso@asu.edu
 
 🚧 *Website and Portfolio Currently Under Construction* 🚧
+
+
 <!--
 **lniverso/lniverso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
